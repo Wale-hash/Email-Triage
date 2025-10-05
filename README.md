@@ -4,6 +4,7 @@ A tiny, human-assisted Python triage tool that asks a few quick yes/no questions
 
 ## Usage
 Run:
+python3 email_triage.py
 Answer the prompts (y/n). The script returns a numeric score and a risk label and then suggests quick next steps.
 
 ## Why this is useful
